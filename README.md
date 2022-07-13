@@ -8,7 +8,7 @@ Tested on Pre, Pre2, Pre3, Veer and Touchpad.
 
 Uses [Sharing Service](https://github.com/codepoet80/sharing-service) which is hosted by [webOSArchive](http://www.webosarchive.com) for the webOS community without guarantee of privacy or performance. Illegal or illicit use strictly prohibited. 
 
-You can also self-host the service, see the [instructions here](https://github.com/codepoet80/sharing-service/blob/main/README.md).
+You can also self-host the service, see the [instructions here](https://github.com/codepoet80/sharing-service/blob/master/README.md).
 
 ## What is This?
 
